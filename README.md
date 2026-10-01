@@ -5,7 +5,7 @@ Design and analysis of an adjustable crane attachment for a forklift, including 
 ## Authors
 
 * Ali Sakhaei
-* Mohammadreza Sotude
+* Mohammadreza Sotoudeh
 
 ## Project Overview
 
