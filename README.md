@@ -1,6 +1,6 @@
 # Forklift Crane Attachment
 
-Design and analysis of an adjustable crane attachment for a forklift, including structural calculations, mechanical joints, manufacturing drawings, and a complete SolidWorks assembly.
+Design and analysis of an adjustable crane attachment for a forklift.
 
 ## Authors
 
